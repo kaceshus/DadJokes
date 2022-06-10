@@ -63,7 +63,7 @@ public class Recipient {
 		textsToSend[12] = this.name + ", Why was 6 afraid of 7?\nBecause 7 ate nine!\uD83D\uDE02";
 		textsToSend[13] = this.name + ", I'm so good at \uD83D\uDE34 that I do it with my eyes closed\uD83D\uDE02";
 		textsToSend[14] = this.name + ", What do you call a \u270F with two erasers? \nPointless.\uD83D\uDE02";
-		textsToSend[15] = this.name + ", Did you hear the one about the roof?\nNever mind, it's over your head.\uD83D\uDE02";
+		textsToSend[15] = this.name + ", Did you hear the one about the roof?\nNever mind,it's over your head.\uD83D\uDE02";
 		textsToSend[16] = this.name + ", What's brown and sticky?\nA stick.\uD83D\uDE02";
 		textsToSend[17] = this.name + ", I hated facial hair but then it grew on me.\uD83D\uDE02";
 		textsToSend[18] = this.name + ", It really takes guts to be an organ donor.\uD83D\uDE02";

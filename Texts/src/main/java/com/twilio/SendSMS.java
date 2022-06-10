@@ -24,7 +24,7 @@ public class SendSMS  {
 		//s.start();
 		//s.scheduleJob(j, t);
 		
-		//Recipient.sendDailies();
+		
 
 		
 		

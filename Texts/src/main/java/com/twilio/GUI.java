@@ -112,7 +112,7 @@ public class GUI implements ActionListener, ItemListener {
 		
 		
 
-		success.setText("Coming at you!! ");
+		success.setText("Coming at you!");
 
 	}
 	
